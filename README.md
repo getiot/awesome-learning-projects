@@ -61,8 +61,11 @@ There are a lot of ~~hidden~~ treasures lying within open-source ocean scattered
 
 ### Cpp
 
+- [TinyWebServer](https://github.com/qinguoyi/TinyWebServer)
 - [WebServer](https://github.com/linyacool/WebServer)
 - [WebServer](https://github.com/markparticle/WebServer)
+- [myTinyKV](https://github.com/shidazhuang/myTinyKV)
+- [myTinyWebServer](https://github.com/shidazhuang/myTinyWebServer)
 
 ### Android
 
