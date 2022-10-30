@@ -21,6 +21,7 @@ There are a lot of ~~hidden~~ treasures lying within open-source ocean scattered
     - [C](#c)
     - [Cpp](#cpp)
     - [Android](#android)
+    - [Books](#books)
 
 ## Projects
 
@@ -51,6 +52,7 @@ There are a lot of ~~hidden~~ treasures lying within open-source ocean scattered
 - [Planck-Pi](https://github.com/peng-zhihui/Planck-Pi)
 - [ST-Link-Nano](https://github.com/peng-zhihui/ST-Link-Nano)
 - [XUAN](https://github.com/peng-zhihui/XUAN)
+- [HandiPi](https://github.com/brickbots/HandiPi)
 
 ### C
 
@@ -69,4 +71,13 @@ There are a lot of ~~hidden~~ treasures lying within open-source ocean scattered
 
 ### Android
 
+- [GoodWeather](https://github.com/lilongweidev/GoodWeather)：好天气 App，介绍如何从零开始开发一款 Android 应用。
 - [BluetoothTouch](https://github.com/peng-zhihui/BluetoothTouch)
+
+
+### Books
+
+- [craftinginterpreters]()：介绍一门小型自创编程语言 Lox 解释器和虚拟机的原理和实现。
+- [ThinkPython](https://github.com/AllenDowney/ThinkPython)：面向初学者介绍 Python 编程，本书还有第二版 [ThinkPython2](https://github.com/AllenDowney/ThinkPython2)，以及中文翻译版本 [ThinkPython-CN](https://github.com/cycleuser/ThinkPython-CN)。
+- [ThinkDSP](https://github.com/AllenDowney/ThinkDSP)：将 Python 代码和数字信号处理结合。
+
